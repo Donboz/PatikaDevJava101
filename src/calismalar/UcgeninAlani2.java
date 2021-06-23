@@ -1,4 +1,4 @@
-package odevler;
+package calismalar;
 import java.util.Scanner;
 /**
  * @author Murat BATAK - 15.Haziran.2021
